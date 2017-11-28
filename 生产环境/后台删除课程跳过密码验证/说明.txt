@@ -1,0 +1,3 @@
+src\Topxia\AdminBundle\Resources\views\Course\delete.html.twig
+\src\Topxia\AdminBundle\Controller\CourseController.php
+修改文件的位置
